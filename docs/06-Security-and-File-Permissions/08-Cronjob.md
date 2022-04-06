@@ -35,3 +35,8 @@ The basic usage of **cron** is to execute a job in a specific time. The **`cront
 0 0 0 1 1 *	Every 1st of january (yearly)
 
 @reboot	        Every reboot
+
+
+## HANDS-ON LABS
+ - Let's head over to the hands-on labs of [Cronjobs](https://kodekloud.com/topic/lab-cronjob/) 
+
