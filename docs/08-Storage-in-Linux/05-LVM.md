@@ -163,4 +163,5 @@
 
 # HANDS-ON LABS
 
-  - Lets head over to the hands-on labs of [LVM](https://kodekloud.com/courses/873064/lectures/17074607)
+  - Lets head over to the hands-on labs of [LVM](https://kodekloud.com/topic/lab-lvm-2/)
+  
