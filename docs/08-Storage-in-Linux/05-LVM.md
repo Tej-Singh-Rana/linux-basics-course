@@ -1,6 +1,6 @@
 # LOGICAL VOLUME MANAGER
 
- - Take me to the [Tutorial](https://kodekloud.com/topic/lvm/)
+ - Take me to the [Tutorial](https://kodekloud.com/topic/lvm-2/)
  
  - LVM allows grouping of multiple physical volumes, which are hard disks or partitions into a volume group.
  - Volumegroups can be carve out logical volumes.
